@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: my-react-challenge
+  name: react-challenge
   description: A challenge.
   # Example for optional annotations
   annotations:

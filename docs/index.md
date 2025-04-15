@@ -6,8 +6,6 @@
     - Layout 2 with a video
   
 # How to access the app
-This app stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+This app stores your files in your browser, which means all your files are automatically saved locally and are accessible
 
-## Run app 
-localhost:3000
 

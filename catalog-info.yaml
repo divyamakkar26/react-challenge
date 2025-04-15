@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: challenge
+  name: react-challenge
   description: A challenge.
   annotations:
     github.com/project-slug: divyamakkar26/react-challenge

@@ -1,0 +1,9 @@
+.page2-container {
+    padding: 100px 150px;
+    background-color: black;
+ }
+
+ .header2-container {
+    display: flex;
+    justify-content: flex-end;
+}

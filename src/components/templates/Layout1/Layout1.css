@@ -1,0 +1,16 @@
+
+.page1-container {
+   padding: 100px 150px;
+}
+span {
+    display: block;
+}
+
+.header {
+    float: right;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+}

@@ -6,7 +6,7 @@ metadata:
   # Example for optional annotations
   annotations:
     github.com/project-slug: divyamakkar26/react-challenge
-    backstage.io/techdocs-ref: 'docs/index.md'
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   owner: user:divyamakkar26
